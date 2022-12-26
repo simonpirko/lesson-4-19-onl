@@ -17,6 +17,8 @@ public class Main {
 		switch (type) {
 			case "sum":
 				result = num1 + num2;
+			case "sub":
+				result = num1 - num2;
 			default:
 				break;
 		}
