@@ -21,6 +21,8 @@ public class Main {
 				result = num1 - num2;
 			case "mul":
 				result = num1 * num2;
+			case "div":
+				result = num1 / num2;
 			default:
 				break;
 		}
